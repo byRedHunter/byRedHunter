@@ -87,7 +87,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Cludinary</b></span><br><br><br>
+        <span><b>Cloudinary</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/cloudinary.svg">
       </td>
     </tr>

@@ -10,7 +10,7 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <a href="mailto:jhonny.quispejl@gmail.com?Subject=Contact">
+        <a href="mailto:jhonny.quispejl@gmail.com?Subject=Contact" target="_blank">
           <b>Gmail</b>
           <br />
           <br />
@@ -18,7 +18,7 @@
         </a>
       </td>
       <td width="20%" align="center">
-        <a href="https://www.linkedin.com/in/jhonny-quispe-navarro/">
+        <a href="https://www.linkedin.com/in/jhonny-quispe-navarro/" target="_blank">
           <b>LinkedIn</b>
           <br>
           <br>
@@ -26,7 +26,7 @@
         </a>
       </td>
       <td width="20%" align="center">
-        <a href="https://www.instagram.com/byreddhunter/">
+        <a href="https://www.instagram.com/byreddhunter/" target="_blank">
           <b>Instagram</b>
           <br>
           <br>
@@ -34,7 +34,7 @@
         </a>
       </td>
       <td width="20%" align="center">
-        <a href="https://twitter.com/byRedHunter">
+        <a href="https://twitter.com/byRedHunter" target="_blank">
           <b>Tweeter</b>
           <br>
           <br>
@@ -42,7 +42,7 @@
         </a>
       </td>
       <td width="20%" align="center">
-        <a href="https://platzi.com/@byRedHunter/">
+        <a href="https://platzi.com/@byRedHunter/" target="_blank">
           <b>Platzi</b>
           <br>
           <br>

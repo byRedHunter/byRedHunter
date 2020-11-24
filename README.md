@@ -10,24 +10,44 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <a href="mailto:jhonny.quispejl@gmail.com?Subject=Contact"><b>Gmail</b></a><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/google-gmail.svg">
+        <a href="mailto:jhonny.quispejl@gmail.com?Subject=Contact">
+          <b>Gmail</b>
+          <br />
+          <br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/google-gmail.svg">
+        </a>
       </td>
       <td width="20%" align="center">
-        <a href="mailto:jhonny.quispejl@gmail.com?Subject=Contact"><b>LinkedIn</b></a><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/linkedin.svg">
+        <a href="https://www.linkedin.com/in/jhonny-quispe-navarro/">
+          <b>LinkedIn</b>
+          <br>
+          <br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/linkedin.svg">
+        </a>
       </td>
       <td width="20%" align="center">
-        <a href="mailto:jhonny.quispejl@gmail.com?Subject=Contact"><b>Instagram</b></a><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/instagram-icon.svg">
+        <a href="https://www.instagram.com/byreddhunter/">
+          <b>Instagram</b>
+          <br>
+          <br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/instagram-icon.svg">
+        </a>
       </td>
       <td width="20%" align="center">
-        <a href="mailto:jhonny.quispejl@gmail.com?Subject=Contact"><b>Twitter</b></a><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/twitter.svg">
+        <a href="https://twitter.com/byRedHunter">
+          <b>Tweeter</b>
+          <br>
+          <br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/twitter.svg">
+        </a>
       </td>
       <td width="20%" align="center">
-        <a href="mailto:jhonny.quispejl@gmail.com?Subject=Contact"><b>Platzi</b></a><br><br><br>
-        <img height="64px" src="https://static.platzi.com/static/images/footer/logo.png">
+        <a href="https://platzi.com/@byRedHunter/">
+          <b>Platzi</b>
+          <br>
+          <br>
+          <img height="64px" src="https://static.platzi.com/static/images/footer/logo.png">
+        </a>
       </td>
     </tr>
   </tbody>
